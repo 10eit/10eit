@@ -1,9 +1,9 @@
 ## About ME
 
-I am currently in a gap year as an undergraduate student at Fudan University. I enjoy following topics:
+I am currently in a gap year as an undergraduate student at Fudan University, and now I am a Quantitative Research intern. I enjoy following topics:
 
 #### Cognitive Science 🧠. 
-I work as a Research Assistant in Computational Cognitive Neuroscience for three years (however no longer for 2026), my interests focus on: 
+I worked as a Research Assistant in Computational Cognitive Neuroscience for three years (2023-2025), my interests focus on: 
 
 1. human decision making in different situation (semantic ambigurity, moral dilemma) and their computational modeling (drift diffusion and its variation)
 2. mechanism of human working memory, and how complexity of information influence memory encoding
@@ -14,7 +14,6 @@ I wrote a lot popular science articles on Zhihu about how human brain works in d
 #### Computational Theories 🤖.
 
 * Complexity theory and Model Theory (FOL with database theory)
+* Learning/Optimization Theory in ML.
 
-
-
-I am actively seeking for job opportunities in 2026 Spring (for Intern) and 2026 Fall (for Permanent), a brief introduction of myself can be reached on [LinkedIn](https://www.linkedin.com/in/yanlin-fu-4b6886222/), detailed CV is available on request. 
+I am actively seeking for job opportunities in 2026 Spring (for Intern after March) and 2026 Fall (for Permanent), a brief introduction of myself can be reached on [LinkedIn](https://www.linkedin.com/in/yanlin-fu-4b6886222/), detailed CV is available on request. 
