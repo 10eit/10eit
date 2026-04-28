@@ -16,7 +16,7 @@ I wrote a lot popular science articles on [Zhihu](https://www.zhihu.com/question
 * Complexity theory and Model Theory (FOL with database theory).
 * Learning/Optimization Theory in ML.
 
-#### Quantative Finance 📈.
+#### Quantitative Finance 📈.
 I worked as a Quant Researcher Intern building cross-section prediction models early in the 2026. During the internship, I am interested in following topics which is not related to my job:
 
 * derivative pricing, and the model related to human decision.
