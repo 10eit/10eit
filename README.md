@@ -1,6 +1,6 @@
 ## About ME
 
-I am currently in a gap year as an undergraduate student at Fudan University. I enjoy following topics:
+I enjoy following topics:
 
 #### Cognitive Science 🧠. 
 I worked as a Research Assistant in Computational Cognitive Neuroscience for almost three years (2023-2025), my interests focus on: 
